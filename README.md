@@ -1,4 +1,4 @@
-#<h1>Hi 👋, I'm Maxwell Chimaobi Ngwu</h1>
+#<h1 style="align-self: center;">Hi 👋, I'm Maxwell Chimaobi Ngwu</h1>
 #<h3>I'm a frontend and backend ethusiast</h3>
 
 # 💫 About Me:
