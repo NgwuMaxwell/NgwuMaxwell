@@ -17,6 +17,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NgwuMaxwell&theme=neon&no-frame=false&no-bg=false&margin-w=4)
+<img src="Maxwell Chimaobi Ngwu_084038.jpg">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
