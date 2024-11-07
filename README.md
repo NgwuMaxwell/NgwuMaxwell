@@ -17,9 +17,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NgwuMaxwell&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-#Certified Web Developer
+# Certified Web Developer
 <img src="certificate.jpg">
-#Certified Blockchain Developer
+
+# Certified Blockchain Developer
 <img src="Maxwell Chimaobi Ngwu_084038.jpg">
 
 ### ✍️ Random Dev Quote
